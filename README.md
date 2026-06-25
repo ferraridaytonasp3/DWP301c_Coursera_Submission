@@ -1,1 +1,1 @@
-# DWP301c_Coursera_Submission
+simple interest calculator
